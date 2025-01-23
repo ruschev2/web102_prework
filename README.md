@@ -1,10 +1,10 @@
-# WEB102 Prework - *Monter Funding*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Luis Hernandez**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -21,24 +21,18 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+[Here's a video walkthrough of implemented features](https://youtu.be/lQYwjbrcsKI)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video created with OBS and Magix VEGAS
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Most of the ~10 hours of working on this application was spent on learning and exploring new skills, which was very enjoyable (thank you CodePath).
+No insurmountable challenges were encountered during development.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Luis Hernandez and CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
